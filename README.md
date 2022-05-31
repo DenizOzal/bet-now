@@ -9,7 +9,7 @@ Bet-Now is a social betting platform that allows users to place bets on differen
 - Arman Engin Sucu
 - Rola Younis
 
-# Images from Project
+### Images from Project
 <img src="images/Screen%20Shot%202022-05-17%20at%2023.05.34.png" width="80%">
 <img src="images/Screen%20Shot%202022-05-17%20at%2022.29.51.png" width="80%">
 <img src="images/Screen%20Shot%202022-05-17%20at%2020.50.43.png" width="80%">
